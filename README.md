@@ -1,6 +1,6 @@
-## UnityOnClick
+# UnityOnClick
 
-# Unity Button OnClick Event Script. (Move Scene)
+## Unity Button OnClick Event Script. (Move Scene)
 
 PrintLog.cs -> 버튼 클릭 시 콘솔 프린트 
 
